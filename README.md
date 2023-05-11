@@ -14,7 +14,7 @@ AWS主催のAWS DevDay 2023が6月22日、23日に開催されます。
 
 ## 応募方法
 
-本リポジトリにIssueを立てる形でお願いします。 Issueへのリアクションの数で決めます。
+[こちら](https://github.com/studio3104/our-devday-2023-cfp/issues/new/choose)から本リポジトリにIssueを立てる形でお願いします。 Issueへのリアクションの数で決めます。
 
 ## 時間
 20分1本勝負です。
