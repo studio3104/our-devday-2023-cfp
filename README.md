@@ -12,6 +12,10 @@ AWS主催のAWS DevDay 2023が6月22日、23日に開催されます。
 
 こちら → [俺たちの本当にやりたかったDevDay](https://connpass.com/event/282059/)
 
+## 応募期限
+
+2023/5/30 23:59:59 JST 締切
+
 ## 応募方法
 
 [こちら](https://github.com/studio3104/our-devday-2023-cfp/issues/new/choose)から本リポジトリにIssueを立てる形でお願いします。 Issueへのリアクションの数で決めます。
