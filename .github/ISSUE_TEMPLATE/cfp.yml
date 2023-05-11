@@ -1,0 +1,29 @@
+name: 俺たちの本当にやりたかったDevDay Call for Proposals
+description: イベント詳細 https://connpass.com/event/282059/
+title: "<セッションタイトルを最大40文字程度で記入してください>"
+labels: [cfp]
+assignees:
+  - Keisuke69
+  - studio3104
+body:
+  - type: checkboxes
+    id: acceptance-show-on-site
+    attributes:
+      label: 会場での講演
+      options:
+        - label: 当日に会場で20分の講演が可能です
+          required: true
+  - type: input
+    id: twitter-id
+    attributes:
+      label: Twitter ID
+      description: 採択の場合、Twitter DM 経由でのご連絡となります
+    validations:
+      required: true
+  - type: textarea
+    id: session-abstract
+    attributes:
+      label: セッションのアブストラクト
+      description: 採択の場合、<a href="https://connpass.com/event/282059/">イベントページ</a>に本イシューのリンクが貼られます
+    validations:
+      required: true
