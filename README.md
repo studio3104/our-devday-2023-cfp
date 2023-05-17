@@ -44,6 +44,8 @@ AWS主催のAWS DevDay 2023が6月22日、23日に開催されます。
 
 ![](https://gyazo.com/0efc7425bdd4e51441ad84060a90d9c4.jpg)
 
+![](https://i.gyazo.com/8ce29cb266d716b8e7f8926dd0663593.jpg)
+
 ![](https://i.gyazo.com/e72071962ebfe790988725f4019c92f7.png)
 
 ## 会場スポンサー
